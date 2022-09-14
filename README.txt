@@ -8,6 +8,7 @@
 Welcome to the loginteller program!  This program, once installed as
 /usr/local/sbin/loginteller,  tells current login name at the system.
 
+Uwu test
 
 SOURCES
 =========
